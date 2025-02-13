@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: green;
+    text-align: center;
+    padding: 3px;
+}
+.Zoo {
+    color: red;
+}
+h1 {
+    text-align: center;
+}
+img {
+    width: 351px;
+    height: 293px;
+    margin-left: 195px;
+}
+h2 {
+    border: 5px red double;
+}
+footer {
+    background-color: greenyellow;
+
+}
+h3 {
+    margin-left: 400px;
+    color: red;
+}
